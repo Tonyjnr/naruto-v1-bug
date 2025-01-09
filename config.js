@@ -12,7 +12,7 @@ global.codeInvite = ""
 global.isLink = ' ' 
 global.thumb = fs.readFileSync("./thumb.png") 
 global.audionya = fs.readFileSync("./all/sound.mp3") 
-global.packname = "naruto bot" 
+global.packname = "ᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡ᠊߯ᡁࠣ࠘᠊᠊ࠢ࠘气亠===" 
 global.author = "YT :Ednut001" 
 global.jumlah = "5" 
 global.namabot = "Naruto Bot crash" 
